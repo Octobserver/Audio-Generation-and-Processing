@@ -1,0 +1,458 @@
+commit 267492cd3318b7ae047407338938a8743f0fbfa5
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 19:42:40 2019 -0400
+
+    wave.c finished; all difference <= 0.01
+
+commit 2dd485b03954be9c43c229662be4dc15982b7487
+Merge: e2b11f5 04fe248
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 12:39:15 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jacktarantino21/midtermproj
+    
+    update
+
+commit e2b11f567dd9f2e4716c339b7488fb697e25d72a
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 12:38:12 2019 -0400
+
+    wave.c updated
+
+commit 04fe248cdace3c6e785cc61fb5d2ebfbce8ec6c3
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 12:36:29 2019 -0400
+
+    error format changed
+
+commit cb5b45f22af9236396053b67411f8b2cdfa0c1c3
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 12:36:11 2019 -0400
+
+    error format changed
+
+commit c775efa388abbbd60a38a2c2d16c4c55231ead02
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 11:40:01 2019 -0400
+
+    adjustments made
+
+commit e4e1ee45708984f39c4bb4e9658c675e1110f8c3
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 11:39:43 2019 -0400
+
+    adjustments made
+
+commit 96325449e526af323b6ed05f611bc5d08df8c459
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 11:39:15 2019 -0400
+
+    changes made
+
+commit 94c34e0175c95278adc700638a9edb010777022e
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 10:09:29 2019 -0400
+
+    changes made
+
+commit f2a41472045ceaf156c259465b958d6ac480ff00
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 09:54:22 2019 -0400
+
+    algorithm changed
+
+commit 400b05a732788f3097fc7c571b262ec022d9f2a2
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 09:43:34 2019 -0400
+
+    comments made for program
+
+commit a18ea60200d347eec94320f92d41ebed0582277b
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 09:28:45 2019 -0400
+
+    render_echo.c commented
+
+commit 4e5335d9c40308818ca8f337c79c22814425d6fd
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 09:21:32 2019 -0400
+
+    render_echo done
+
+commit d10c068b67e7ec0d28bf5cc6e6667adaa4e273b4
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 09:06:27 2019 -0400
+
+    Makefile functional
+
+commit 2ec36a55c0c686cc53283e783bb2b75f92f46f39
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 09:04:48 2019 -0400
+
+    minor adjustments made
+
+commit 75ce4c5d7f6ef8b7cb15fcc706da16938b831952
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 09:03:05 2019 -0400
+
+    minor adjustments made
+
+commit 63bc2faf7ec8773a9d248b775f829f5bfa109c19
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 09:01:17 2019 -0400
+
+    render files
+
+commit 47a0b010b8cba30ce8e9e5f431fe26f837cb4f8b
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 08:54:16 2019 -0400
+
+    final io.c
+
+commit 53a299d72aef40477444e7de88cfb787b2974dd8
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 08:25:00 2019 -0400
+
+    comments for render_tone.c made
+
+commit dded9257216855735f39d058abed96dfbad016b5
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 17 08:24:19 2019 -0400
+
+    io.c comments made
+
+commit 380cafc71bfa0bdddda1b10fb051b01e94fe6ccb
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 01:55:31 2019 -0400
+
+    render_echo now functions as expected
+
+commit b9f9f3f4bc662a73860af16b27a80ca699e35520
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 17 01:40:25 2019 -0400
+
+    add make all for Makefile; add comments for wave and render_song
+
+commit d7037b7fbbac698bd80883d99924de527fdeee3b
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 23:58:57 2019 -0400
+
+    all tests passed
+
+commit 8dc9d803e54e0e41cde65ed6353dcbb9027e6a38
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 23:20:14 2019 -0400
+
+    problem fixed!
+
+commit 54f6fe7d5acbeaba8e8acd550a05d308ccb5a292
+Merge: 99d19ed 0540687
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 22:48:10 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jacktarantino21/midtermproj
+    
+    gg
+
+commit 99d19eded85e9aedb84143f5bea366a4e5e323dc
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 22:44:38 2019 -0400
+
+    render_song.c need to be fixed
+
+commit 0540687941fc94782fade0aa3b14ac0e30e315e5
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 22:00:59 2019 -0400
+
+    minor change
+
+commit 4b7f6a0b3f09805a9cc729910309b0e8576f45e4
+Merge: 80776e5 cd9d482
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 21:57:53 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jacktarantino21/midtermproj
+
+commit 80776e5675a334a5a1fec99de4a9395df6c5b493
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 21:57:14 2019 -0400
+
+    minor change
+
+commit cd9d482231c0a24ea74d2c074833da22a8b7583b
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 21:46:14 2019 -0400
+
+    wave: float to double
+
+commit 8e4156bfa6d69e9bbdff86be44b903d2588c3cd5
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 21:30:29 2019 -0400
+
+    modifications made to calculations
+
+commit 436a73420d7abd84865c3ff3210c4ba8ee784f97
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 20:59:57 2019 -0400
+
+    .c includes changed to .h
+
+commit be6c7ea81a21b6b929075aa3faabab6d815568c5
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 20:54:09 2019 -0400
+
+    render_song finished
+
+commit 4072a315ad0357b917fd0a8b71c3d575adc27ca5
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 20:21:37 2019 -0400
+
+    render_song finished
+
+commit b6f19afdff5671adde4d510ae8d4afa5565e18c2
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 20:19:21 2019 -0400
+
+    render_tone.c functions fully
+
+commit 656064a78c1cc969032fc0446123e7fd4135931a
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 15 19:43:24 2019 -0400
+
+    wave.c finished
+
+commit f77fc7f34b78fd7ff2a5f7026b5092f8e40bf61a
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 17:25:32 2019 -0400
+
+    io.c is fully functional and has been tested
+
+commit 0bb9ef8e2df0cd8354c34ebd0356a0d753307c92
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 10:57:16 2019 -0400
+
+    minor adjustments made
+
+commit 7194877590910ddbc9b90685958931586b2a90c5
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 01:30:37 2019 -0400
+
+    Makefile functional
+
+commit 792cdc402f65ebc0c03100d0cd00138a81c9c38d
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 01:30:15 2019 -0400
+
+    io.c functions and has been tested
+
+commit 34c9968672bedaf5f5da60a5b7e295b7cff3d06f
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 15 00:58:24 2019 -0400
+
+    tests done. adjustments need to be made for signed 16 functions
+
+commit 71b5fda4b75d14449b6340225d4011550b3505ec
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Mon Oct 14 19:00:41 2019 -0400
+
+    Flags added
+
+commit 7689ae4fbc1451c7f321366097e5162df4256cc4
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Mon Oct 14 18:42:39 2019 -0400
+
+    Makefile updated
+
+commit 168ba525e13afbb42fe88c9f56fc1ba729d902bc
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Mon Oct 14 18:42:07 2019 -0400
+
+    Error messages fixed
+
+commit f21fc2c0c847c09b84fb44da928b645a689d8aa8
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Mon Oct 14 17:19:47 2019 -0400
+
+    fixed for leaked storage
+
+commit 309b2f895df195e04f181d68fb0a13a4583cda0a
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Mon Oct 14 17:00:00 2019 -0400
+
+    render_tone updated after reading tips and tricks file
+
+commit 4a94117df5cdc63b74970caecc18394857385ba4
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Mon Oct 14 16:39:23 2019 -0400
+
+    Makefile edited
+
+commit dbe2792950985b434a2f4af87e96dd7c8baa5abc
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Sun Oct 13 19:56:10 2019 -0400
+
+    Makefile updated
+
+commit 973053a5b53fec4c3fa43480b81af4961ed2d3ad
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Sun Oct 13 17:04:56 2019 -0400
+
+    render_echo now compiles wto error, fixed some bugs in render_song; detect potential bugs in wave.c
+
+commit 107f34ef30ca2f9ee49a56e665b9ccaa6e152d09
+Merge: 38b1676 981e95a
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Sun Oct 13 17:01:22 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jacktarantino21/midtermproj
+    
+    update
+
+commit 38b167602908f61aad64bd0905d39a62f944fb1a
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Sun Oct 13 16:58:59 2019 -0400
+
+    render_echo now compiles wto error, fixed some bugs in render_song; detect potential bugs in wave.c
+
+commit 981e95a0659d4d0c8235637ea51a6d0e87e8baf3
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Sun Oct 13 15:47:26 2019 -0400
+
+    render_tone.c compiles fully
+
+commit 14732631f29525e02f42ba678641806bfcb2fbd9
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Sun Oct 13 15:38:28 2019 -0400
+
+    fixed issues indicated by comments
+
+commit b3747a4258f6a4bebae5ed529548f9f7b3488f4e
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Sun Oct 13 15:06:51 2019 -0400
+
+    update render_tone io
+
+commit 8e255d575ea056616e3f9e4e7fde28e2376c76ff
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Sun Oct 13 15:03:25 2019 -0400
+
+    render_song finished, no compiler error; update render_tone and io
+
+commit 81a502b9b026282e6b43a64719ff024b64893689
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Sat Oct 12 23:37:54 2019 -0400
+
+    test.c started, skeleton created
+
+commit efb29a4a5bc0a8bc4d0d18b8d59e63c0566559b0
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Sat Oct 12 20:02:49 2019 -0400
+
+    Makefile updated to support render_tone
+
+commit 31b665ac9dc9d11febe97f2cdf620394108eda81
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Sat Oct 12 20:02:18 2019 -0400
+
+    render_tone.c compiles fully with no errors, comments, or warnings
+
+commit b264c10532ac9022b209a664f7fa13f1f3ee170d
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Fri Oct 11 22:02:09 2019 -0400
+
+    variables inported and variable checks completed
+
+commit 407be94d8e0ac450a0c0d8409a1b82314116d0d7
+Merge: a0e3c43 6ecc495
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 10 12:23:55 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jacktarantino21/midtermproj
+
+commit 6ecc4958e778bf935e45b9799b6f56d8963eac77
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 10 12:23:17 2019 -0400
+
+    io.h added
+
+commit a0e3c4346dce9a5fc1897f3829db061746314fcf
+Merge: 56be99f 75af545
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 10 12:16:59 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jacktarantino21/midtermproj
+
+commit 75af5452f07a41feb27b594f5f8f8895e4da5c43
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 10 12:12:47 2019 -0400
+
+    update
+
+commit 56be99f6166667375c095cc2f200768f5b54a26b
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Thu Oct 10 12:07:58 2019 -0400
+
+    render_tone skeleton created
+
+commit 4004927954519c8a662262fe8b2d3ad1a13812dd
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Thu Oct 10 01:45:18 2019 -0400
+
+    wave.c compiles wto error; need comments
+
+commit 1a4ca7e7e6c641f5fc34b99c1e524b97da236592
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Wed Oct 9 17:46:01 2019 -0400
+
+    io.c compiles with no warnings, errors, or notes
+
+commit 10a558a5033e963fa3620377addddabdcd2b861a
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Wed Oct 9 14:44:48 2019 -0400
+
+    No errors in io.c, several warnings still present.
+
+commit faa44a2fcefbef86bcc7d8c175d6a7e26ee4c17e
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 8 23:32:13 2019 -0400
+
+    Makefile completed
+
+commit be5d9ddabf0f07a9ba0680a7fed855b1947ce766
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 8 23:31:49 2019 -0400
+
+    io.c completed with minor compilation errors.
+
+commit e06aa21fa47c567b2c5485b8fab52d00d220dd37
+Merge: 160ad1e 5662179
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 8 18:04:40 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/jacktarantino21/midtermproj
+    
+    update
+
+commit 160ad1e9cffbe81604ab6ec62e7b6ac6f3919b89
+Author: Weina Dai <wdai11@jhu.edu>
+Date:   Tue Oct 8 18:03:54 2019 -0400
+
+    all functions finished. need to check algorithm. need comments.
+
+commit 5662179eb2191abcb4300030767da830b0167791
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Tue Oct 8 00:17:29 2019 -0400
+
+    Comments added for function descriptions.
+
+commit 5a3437e0d1e8c5c5b7c3bfada26573c359eefaff
+Author: CS Fall 19 Course DH <ipf1971@ugrad2.cs.jhu.edu>
+Date:   Mon Oct 7 18:11:39 2019 -0400
+
+    Write functions almost finished. Yet to do signed function.
+
+commit 8c16dc9ff28fb14bdf6c5e7911fc1f95e6eeac0d
+Author: CS Fall 19 Course DH <ipf1971@ugrad3.cs.jhu.edu>
+Date:   Fri Oct 4 08:20:01 2019 -0400
+
+    files copied into repository
